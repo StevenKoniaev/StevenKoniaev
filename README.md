@@ -17,4 +17,19 @@ I am currently learning about AI and computer vision on my own and hope to creat
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ‎ 
