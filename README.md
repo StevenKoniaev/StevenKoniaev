@@ -5,3 +5,15 @@ My website and resume: https://stevenkoniaev.github.io/
 I am currently a student at Mcgill University and in pursuit of my degree. If you would like to collaborate on any projects please let me know! There is more information about myself on my website. 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
