@@ -1,6 +1,5 @@
 <h1>
-  hey there
-  	:wave: 
+  hey there!
   My name is Steven Koniaev.
 </h1>
 <h2>
