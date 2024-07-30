@@ -11,8 +11,9 @@
 ### Interests:
 
 - Developments in ML architectures.
-- NLP
-- Game Engines/Physics simulation.
+- NLP, Language Theory.
+- Theoretical CS, Randomized Algorithms.
+- Game Engines / Physics simulations.
 
 
 
