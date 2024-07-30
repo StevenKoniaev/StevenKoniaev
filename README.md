@@ -6,7 +6,7 @@
 
 #### I am currently studying at McGill University,
 #### for a Bachelor of Science in Honours Computer Science.
--# In my Final Year.
+In my Final Year.
 
 --- 
 
