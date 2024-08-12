@@ -13,7 +13,7 @@ Currently in my Final Year.
 ### Interests:
 
 - ML Theory.
-- NLP, Language Theory.
+- NLP.
 - Theoretical CS, Randomized Algorithms.
 - Game Engines / Physics simulations.
 
