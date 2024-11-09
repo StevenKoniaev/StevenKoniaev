@@ -3,7 +3,7 @@
 </h1>
 
 ---
-Website here
+[Website](https://stevenkoniaev.github.io/)  [LinkedIn](https://www.linkedin.com/in/steven-koniaev-944ba422a/)
 
 ---
 
