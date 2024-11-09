@@ -4,9 +4,8 @@
 
 ---
 
-#### I am currently studying at McGill University.
-#### Pursuing a Bachelor of Science in Honours Computer Science.
-Currently in my Final Year.
+#### Fourth year @ McGill University.
+Pursuing a Bachelor of Science in Honours Computer Science.
 
 ### Interests:
 
