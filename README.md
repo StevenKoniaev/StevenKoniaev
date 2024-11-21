@@ -10,7 +10,7 @@ Pursuing a Bachelor of Science in Honours Computer Science.
 ### Interests:
 
 - ML Theory.
-- NLP.
+- Systems.
 - Theoretical CS, Randomized Algorithms.
 - Game Engines / Physics simulations.
 
