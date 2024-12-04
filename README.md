@@ -7,13 +7,6 @@ Pursuing a Bachelor of Science in Honours Computer Science.
 
 ---
 
-### Interests:
-
-- ML Theory.
-- Systems.
-- Theoretical CS, Randomized Algorithms.
-- Game Engines / Physics simulations.
-
 [Portfolio](https://stevenkoniaev.github.io/)  [LinkedIn](https://www.linkedin.com/in/steven-koniaev-944ba422a/)
 
 
