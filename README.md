@@ -3,7 +3,7 @@
 </h1>
 
 #### Fourth year @ McGill University.
-Pursuing a Bachelor of Science in Honours Computer Science.
+Finishing up a Bachelor of Science in Honours Computer Science.
 
 Hope I get a chance to work on some nice projects!
 
